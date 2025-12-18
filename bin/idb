@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby 
+require 'idb'
+
+idb = Idb::Idb.run
